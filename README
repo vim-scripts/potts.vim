@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=285
+
+This is the colorscheme I've come up with "over the years".  It assumes for console that
+you have the term set for a black background and gray text.  If you switch to a lighter
+scheme, it may not be very visible. 
+
+It works pretty well on transparent term windows, better if you can partially shade them.
+
+Sorry it doesn't have a flashy name, but it doesn't seem to have any theme to it.
+Screen shots at http://pottsdl.github.com/colors.html
+Screen shot of console vim and GUI (Motif) vim.
